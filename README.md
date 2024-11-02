@@ -7,6 +7,9 @@
 - windows glazers
 - people who think piracy is bad
 - apple glazers
+- love me,
+- hate me,
+- but cant you see what I²C?
 <!---
 coldsubstance-deb/coldsubstance-deb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
